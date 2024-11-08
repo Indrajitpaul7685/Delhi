@@ -1,0 +1,1 @@
+var json_MeanCenter2000_6 = {"type":"FeatureCollection","name":"MeanCenter2000_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"OBJECTID":"1","XCoord":709412.76994000003,"YCoord":3167293.48233},"geometry":{"type":"Point","coordinates":[77.141884210051188,28.615777449198141]}}]}
